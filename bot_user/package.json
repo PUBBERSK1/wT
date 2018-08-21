@@ -1,0 +1,14 @@
+{
+  "name": "bot_user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "start": "php index.php"
+  },
+  "author": "Sergei Klochkov",
+  "licence": "ISC",
+  "dependencies": {
+    "php-telegram-bot-api": "^0.29.0"
+  }
+}
